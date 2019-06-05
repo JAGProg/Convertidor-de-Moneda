@@ -1,4 +1,3 @@
-# HELLO-WORD
-ES SOLO OTRO REPOSITORIO
+# Convertidor de moneda
 
-Quiero Aprender a programar!
+Ejercicios para el aprendizaje de manejo de formulario!!!
