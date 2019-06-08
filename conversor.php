@@ -14,6 +14,9 @@ Ejercicios para el aprendizaje
 	// realiza la conversión y presenta el resultado
 	$pesos = $dolares * TASA_DE_CAMBIO;
 	echo "$dolares USD americanos son equivalentes a: $pesos COP";
+	echo "<br />";
+	echo "<br />";
+	echo "<a href='conversor.html'>Volver</a>";
 
 
 ?>
